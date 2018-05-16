@@ -9,6 +9,11 @@
       "priority": 2,
       "component": "Aviation Systems",
       "description": "Helecopters for drug interdiction"
+    },
+    {
+      "priority": 3,
+      "component": "3 Propulsion Assets",
+      "description": "Enables access to engineering components"
     }
   ],
   "sample_mission_2": [
