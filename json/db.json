@@ -1,0 +1,33 @@
+{
+  "sample_mission_1": [
+    {
+      "priority": 1,
+      "component": "Boat Launch Systems",
+      "description": "Enables access to engineering components"
+    },
+    {
+      "priority": 2,
+      "component": "Aviation Systems",
+      "description": "Helecopters for drug interdiction"
+    }
+  ],
+  "sample_mission_2": [
+    {
+      "priority": 1,
+      "component": "2/3 Generators",
+      "description": "Exhaustion of ship engines"
+    }, 
+    {
+      "priority": 2,
+      "component": "2/3 Propulsion Assets",
+      "description": "Immobility of ship"
+    } 
+  ],
+  "sample_mission_3": [
+     {
+      "priority": 1,
+      "component": "Navigation systems",
+      "description": "Possible hijack of steering controls"
+     } 
+  ]
+}
